@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Catálogo de películas</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <header>
+    <h1>Catálogo de películas</h1>
+
+    <div class="filtros">
+      <div class="campo">
+        <label for="buscar">Buscar por nombre</label>
+        <input type="text" id="buscar" placeholder="Escribí al menos 3 letras..." autocomplete="off" disabled>
+        <small id="ayuda"></small>
+      </div>
+
+      <div class="campo">
+        <label for="genero">Género</label>
+        <select id="genero" disabled>
+          <option value="">Todos los géneros</option>
+        </select>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <p id="cargando">Cargando películas...</p>
+    <p id="mensaje"></p>
+    <p id="contador"></p>
+
+    <!-- Acá JavaScript va agregando una card por cada película -->
+    <section id="contenedor"></section>
+  </main>
+
+  <footer>Alumnos: Francisco Boroni y Maximo Kohan</footer>
+
+  <script src="scripts/app.js"></script>
+</body>
+</html>

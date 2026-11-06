@@ -1,0 +1,12 @@
+id_pelicula,nombre_pelicula,id_genero,resena,url_poster,baja
+1,Matrix,5,"Un hacker descubre que la realidad, tal como la conoce, es una simulación.",datos/posters/matrix.jpg,0
+2,Volver al futuro,5,Un adolescente viaja en el tiempo con una máquina inventada por un científico excéntrico.,datos/posters/volver-al-futuro.jpg,0
+3,Rocky,3,Un boxeador de barrio recibe la oportunidad de pelear por el título mundial.,datos/posters/rocky.jpg,0
+4,John Wick,1,Un ex sicario retirado vuelve a la acción por una venganza personal.,datos/posters/john-wick.jpg,0
+5,Mi pobre angelito,2,Un nene queda solo en casa y tiene que defenderla de dos ladrones.,datos/posters/mi-pobre-angelito.jpg,0
+6,El resplandor,4,Una familia pasa el invierno en un hotel aislado donde algo no anda bien.,datos/posters/el-resplandor.jpg,0
+7,Alien,4,La tripulación de una nave comercial descubre que no está sola.,datos/posters/alien.jpg,0
+8,Gladiador,1,Un general romano traicionado busca venganza en la arena.,datos/posters/gladiador.jpg,0
+9,Toy Story,6,Los juguetes cobran vida cuando nadie los ve.,datos/posters/toy-story.jpg,1
+10,Forrest Gump,3,La vida de un hombre sencillo que cruza la historia.,datos/posters/forrest-gump.jpg,1
+10,Forrest Gump,3,"La vida de un hombre sencillo que, sin proponérselo, cruza medio siglo de historia.",datos/posters/forrest-gump.jpg,0
